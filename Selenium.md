@@ -2,11 +2,18 @@
 
 - Selenium 2.0 vs 3.0
 - XPath
-- TDD (Test Driven Development) 
+- Types of Webdrivers API available in Selenium
+  
+**TDD (Test Driven Development)**
+--- 
    Software Development practices that focus on creating unit test case of application before the actual development of code. An iterative approach combining programming, unit test creation, and refactoring.
    In TDD, developers create small test cases for every feature based on their initial understanding. The primary intention of this technique is to modify or write new code only if the tests fail. This prevents duplication of test scripts.
-  
-- Behavior-driven development (BDD) - Agile software development methodology in which an application is documented and designed around the behavior a user expects to experience when interacting with it.
+--- 
+
+**Behavior-driven development (BDD)**
+---
+  Agile software development methodology in which an application is documented and designed around the behavior a user expects to experience when interacting with it.
+---
   
 **test types supported by selenium**
 ---
