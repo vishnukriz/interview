@@ -3,6 +3,11 @@
 - Selenium 2.0 vs 3.0
 - XPath
 - Types of Webdrivers API available in Selenium
+- exceptional test in Selenium 
+
+
+
+
   
 **TDD (Test Driven Development)**
 --- 
