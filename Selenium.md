@@ -1,3 +1,42 @@
+**Selenium**
+---
+Selenium is an open-source automated testing tool to validate the web application in multiple browsers and platforms.We can actually run multiple programming languages on selenium like java, .net, php, c# and various etc,the testing we done on the selenium tool is known as selenium testing.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 **Questions**
 
 - Selenium 2.0 vs 3.0
