@@ -2,6 +2,27 @@
 ---
 Selenium is an open-source automated testing tool to validate the web application in multiple browsers and platforms.We can actually run multiple programming languages on selenium like java, .net, php, c# and various etc,the testing we done on the selenium tool is known as selenium testing.
 
+Advantages:
+1. Open source, no license cost required
+2. Selenium supports multiple languages like java, python, ruby, .net, php, c#, java script etc
+3. Compatiable with various operating system - windows, mac os, linux, unix
+4. Browser compactablity - runs the script on varios browsers like edge, chrome, safari, opera, firefox, IE etc
+5. framework availability and flexibility, reusability, integrated and parallel test execution.
+
+Disadvantages:
+1. Tests only web-applications - Selenium supports the testing of only web-based applications. Mobile applications, Desktop applications cannot be tested using Selenium unless integrated with third-party tools like Appium and TestNG.
+2. No built-in reporting - Selenium can generate reports only using third-party tools like TestNG or JUnit.
+3. Unavailability of tech support - Since Selenium is an open-source tool, no dedicated support for user issues is available
+---
+
+**Components of Selenium**
+---
+1. Selenium Integrated Development Environment (IDE) - It is a Firefox/Chrome plug-in that is developed to speed up the creation of automation scripts by recording the user actions on the web browser and exporting them as a reusable script.
+2. Selenium Remote Control (RC) - It is a server that enables users to generate test scripts in their preferred programming language. It accepts commands from the test scripts and sends them to the browser as Selenium core JavaScript commands, for the browser to behave accordingly.
+3. Selenium WebDriver: It is a programming interface that helps to create and run test cases directly by communicating with the web browser and using its native compatibility to automate.
+4. Selenium Grid: It allows parallel execution of tests on different browsers and operating systems by distributing commands to other machines simultaneously.
+---
+
 
 
 
