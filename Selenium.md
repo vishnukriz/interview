@@ -23,6 +23,24 @@ Disadvantages:
 4. Selenium Grid: It allows parallel execution of tests on different browsers and operating systems by distributing commands to other machines simultaneously.
 ---
 
+**Automation Testing**
+---
+Test Automation is a process of automating the manual testing process of an application or a system by using testing tools that allow you to create scripts that can be executed repeatedly, generating detailed test reports of the application or system under test.
+
+Advantages:
+1. It supports both the performance and functional testing of an application or system.
+2. It facilitates the execution of repeated test cases.
+3. It allows the parallel execution of the test cases.
+4. It improves the accuracy and efficiency of the system by reducing the manual intervention of humans to generate test cases.
+5. It saves valuable time and money for the testing team involved in the project.
+---
+
+**XPath in Selenium? Explain XPath Absolute and XPath Relative**
+---
+XPath, also defined as XML-Path (Extensible Markup Language Path), is a language used to query XML documents and provide functionalities like locating elements in Selenium by iterating through each element in a webpage. 
+In XPath, data is stored in a key-value pair format similar to an HTML tag. It uses a single slash, i.e. ‘ / ’ for creating an absolute path, and a double slash, i.e. ‘ // ’ for creating a relative path for an element to be located on a webpage
+---
+
 
 
 
