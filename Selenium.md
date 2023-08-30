@@ -35,7 +35,7 @@ Advantages:
 5. It saves valuable time and money for the testing team involved in the project.
 ---
 
-**XPath in Selenium? Explain XPath Absolute and XPath Relative**
+**XPath in Selenium Explain XPath Absolute and XPath Relative**
 ---
 XPath, also defined as XML-Path (Extensible Markup Language Path), is a language used to query XML documents and provide functionalities like locating elements in Selenium by iterating through each element in a webpage. 
 In XPath, data is stored in a key-value pair format similar to an HTML tag. It uses a single slash, i.e. ‘ / ’ for creating an absolute path, and a double slash, i.e. ‘ // ’ for creating a relative path for an element to be located on a webpage
