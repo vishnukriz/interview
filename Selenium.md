@@ -44,12 +44,30 @@ Advantages:
 5. Double slash '//' - used to create xpath with relative path Eg: "//input[text='element']" (starts selection from anywhere in the web page)
 ---
 
-**Questions**
+**Assert and Verify**
+---
+Assert and Verify commands will check the given condition is true or false.
+Difference:
+Assert - If the given condition is false, it will stop the excution of the test else continue further tests.
+Verify - If given condition is false, it doesn't stops the flow of excution as it is irrespective of conditions true or false.
+---
 
+**Action**
+---
+Rightclick action/ Mouse Hover action:
+actions action = newActions(driver);
+Webelement element = driver.findElement(By.id("test"));
+
+action.contextClick(element).perform();
+action.moveToElement(element).perform();
+
+**Questions**
+---
 - Selenium 2.0 vs 3.0
-- XPath
-- Types of Webdrivers API available in Selenium
-- exceptional test in Selenium 
+- assert and verify
+- Assert: Assert condition stops the execution of the testing if the given condition is false else would continue with the further tests.
+Verify: Verify the condition doesn’t stop the flow of execution irrespective of the condition being true or false
+- 
 
 
 
