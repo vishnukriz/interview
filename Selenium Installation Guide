@@ -1,0 +1,38 @@
+**Selenium Webdriver installation**
+---
+Step 1 – Install Java Software Development Kit (JDK)/(SDK)
+Note: JDK version comes bundled with Java Runtime Environment (JRE)
+Step 2 – Install Eclipse IDE
+Step 3 – Selenium WebDriver Installation (Files)
+
+Step 4 – Configure Eclipse IDE with WebDriver
+1.Launch the “eclipse.exe” file inside the “eclipse” folder that we extracted in step 2. If you followed step 2 correctly, the executable should be located on C:\eclipse\eclipse.exe.
+2.When asked to select for a workspace, just accept the default location.
+3. Create a new project through File > New > Java Project. Name the project as “newproject”.
+A new pop-up window will open. Enter details as follow:
+Project Name
+Location to save a project
+Select an execution JRE
+Select the layout project option
+Click on the Finish button
+4. In this step,
+Right-click on the newly created project and
+Select New > Package, and name that package as “newpackage”.
+5. Create a new Java class under newpackage by right-clicking on it and then selecting- New > Class, and then name it as “MyClass”.
+In this step,
+Right-click on “newproject” and select Properties.
+On the Properties dialog, click on “Java Build Path”.
+Click on the Libraries tab, and then
+Click on “Add External JARs..”
+6. Add all the JAR files inside and outside the “libs” folder. Your Properties dialog should now look similar to the image below.
+7. Finally, click OK and we are done importing Selenium libraries into our project.
+---
+
+**Summary**
+---
+Aside from a browser, you will need the following to start using WebDriver
+Java Development Kit (JDK). https://www.oracle.com/java/technologies/downloads/
+Eclipse IDE – http://www.eclipse.org/downloads/
+Java Client Driver – https://www.selenium.dev/downloads/
+When starting a WebDriver project in Eclipse, do not forget to import the Java Client Driver files onto your project. These files will constitute your Selenium Library.
+---
