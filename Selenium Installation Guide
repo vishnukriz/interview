@@ -5,7 +5,7 @@ Step 2 - Set envinomental variable (JAVA_HOME - copy filepath of Java (program f
 Step 3 – Install Eclipse IDE
 Step 4 - Open eclipse and create Java project
 Step 5: Configure - convert to Maven project (target folder - pom.xml file will be created) 
-Step 6: Add dependencies from mvnrepository (selenium java, testng) for running the basic selenium testing
+Step 6: Add dependencies from mvnrepository (selenium java, testng) to pom.xml for running the basic selenium testing
 Step 7: Maven dependencies will be created 
 Setp 8: Create new package under it, create a new java class
 ---
