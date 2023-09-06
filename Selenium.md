@@ -23,6 +23,21 @@ Disadvantages:
 4. Selenium Grid: It allows parallel execution of tests on different browsers and operating systems by distributing commands to other machines simultaneously.
 ---
 
+**Exceptions**
+---
+- NoSuchElementException
+- NoSuchWindowException
+- NoSuchFrameException
+- NoAlertPresentException
+- NoSuchSessionException
+- TimeoutException
+- ElementNotInteractableException
+- ElementNotSelectableException
+- InvalidSelectorException
+---
+
+
+
 **Automation Testing**
 ---
 Test Automation is a process of automating the manual testing process of an application or a system by using testing tools that allow you to create scripts that can be executed repeatedly, generating detailed test reports of the application or system under test.
